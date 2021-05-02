@@ -2,11 +2,11 @@
 ### Hello friend,
 
 Let me tell you about my second lecture of software development course, I've started learning *102 code*, I was so motivated to start this course, Today's lecture was full of 
-new benefcial informations, cause a new usefull stuff was learned, feeling so happy to share it with you dude,
+new beneficial informations, cause a new useful stuff was learned, feeling so happy to share it with you dude,
 
 Since I know you are interested in learning about programming, so I will tell you about it to encourage you to get started the course.
 
-I've learned many useful and benefical new things about programming:
+I've learned many useful and beneficial new things about programming:
 
 * I've learned how to create an account on [GitHub](https://pages.github.com/) which is used to create and share projects online and to have HTML, CSS, JS files online by creating **repositories** where 
   you can create your codes and share them to public.
