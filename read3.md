@@ -5,7 +5,7 @@ Hope your are doing well, Today's lectute was pretty full of information but it 
 
   **Terminal**
 
-1. **CLI** : Normal command Line Interface 
+1. **CLI** : Command Line Interface 
 2. **GUI** : Graphical user interface.
 3. I've learned some commands using while writing on **CLI**  
 4. I've learned to work on a new application which very useful any easy to learn: 
