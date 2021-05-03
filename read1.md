@@ -1,7 +1,7 @@
-# What I've learned at Today's lecture ...
+# What I've learned at The First Lecture of 102 code ...
 ### Hello friend,
 
-Let me tell you about my second lecture of software development course, I've started learning *102 code*, I was so motivated to start this course, Today's lecture was full of 
+Let me tell you about my first lecture of software development course, I've started learning *102 code*, I was so motivated to start this course, The lecture was full of 
 new beneficial informations, cause a new useful stuff was learned, feeling so happy to share it with you dude,
 
 Since I know you are interested in learning about programming, so I will tell you about it to encourage you to get started the course.
