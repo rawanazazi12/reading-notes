@@ -1,5 +1,5 @@
 # What I've learned at The Second Lecture of 102 code ...
-Hello again friend,
+**Hello again friend,**
 
 Hope your are doing well, Today's lectute was pretty full of information but it worth it, I will tell you what I learned 
 
