@@ -54,3 +54,6 @@ Hope your are doing well, Today's lectute was pretty full of information but it 
 
   - cd .. : move back to the parent directory.
    
+
+
+**Hope** you are encouraged now to learn more about programming and I am here for any help and support.
