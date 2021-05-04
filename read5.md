@@ -19,17 +19,17 @@ Hope your are doing well, Today's lectute was pretty full of information and hea
        - **External style** : creating a CSS file, then link  it with the HTML file using link tag :
         < link rel ="style sheet" href="style.css"> .
 
- 6. How to add colors in CSS :
-       - Name of the color 
-
+ 6. How to add colors in CSS 
+       - Name of the color  
         Ex: color: red ;
 
        - Hexa decimal method  
         Ex: # 0000ff
-       - RGB
 
+       - RGB   
         Ex: rgb (0, 0, 255)
-       - rgba 
+
+       - rgba   
         Ex: ( 0, 0, 255,0 )
       
          
