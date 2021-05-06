@@ -22,5 +22,6 @@ find the place where I can find myself, Unfortunately I couldn't find any chance
 | read4  |  [What Learned at HTML Lecture](read4.md)       |
 | read5  |  [What Learned at CSS Lecture](read5.md)       |
 | read6  |  [What Learned at JS Lecture](read6.md)       |
+| read7  |  [What Learned at loops in JS Lecture](read7.md)       |
 
 
