@@ -4,15 +4,17 @@
 
 1. How to access the web.  
   There are such a different ways to access a web:
-   - Browsers:  People access websites using software called a web browser. Popular examples include Firefox, Internet Explorer, Safari, Chrome, and Opera.    
-   - Web Servers:When you ask your browser for a web page, the request is sent across the Internet to a special computer known as a web server which hosts the website.  
+   - *Browsers*:  People access websites using software called a web browser. Popular examples include Firefox, Internet Explorer, Safari, Chrome, and Opera.    
+   - *Web Servers*:When you ask your browser for a web page, the request is sent across the Internet to a special computer known as a web server which hosts the website.  
    Web servers are special computers that are constantly connected to the Internet, and are optimized to send web pages out to people who request them. 
-   - Screen Readers :Screen readers are programs that read out the contents of a computer screen to a user. They are commonly used by people with visual impairments.  
-   - Devices:People are accessing websites on an increasing range of devices including desktop computers, laptops, tablets, and mobile phones. 
+   - *Screen Readers* :Screen readers are programs that read out the contents of a computer screen to a user. They are commonly used by people with visual impairments.  
+   - *Devices*:People are accessing websites on an increasing range of devices including desktop computers, laptops, tablets, and mobile phones. 
 
-2. How to create a [website](https://en.wikipedia.org/wiki/Website):  All websites use HTML and CSS, but content management systems, blogging software, and e-commerce platforms often add a few more technologies into the mix.
+2. How to create a [website](https://en.wikipedia.org/wiki/Website):  
+>All websites use HTML and CSS, but content management systems, blogging software, and e-commerce platforms often add a few more technologies into the mix.
 
-3. How the website works:When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
+3. How the website works:
+>When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
 
 4. How to describe the structure of the website:
 using HTML codes to describe the structure of the website.
@@ -39,12 +41,12 @@ using HTML codes to describe the structure of the website.
 
 ## What I've learned from the Duckett JS book:
 
-1. What is a script: A script is  a series of instructions that a computer can follow to achieve a goal. 
+1. **What is a script**: A script is  a series of instructions that a computer can follow to achieve a goal. 
 2. Each time the script runs, it might only use a subset of all the instructions. 
 3. Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically. 
 4. To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task.
-5. What are Events: programs are designed to do different things when users interact with the computer in different ways. For example, clicking on a contact link on a web page could bring up a contact form, and entering text into a search box may automatically trigger the search functionality. 
-6. What does an event do: Programmers choose which event s they respond to. When a specific event happens, that event can be used to trigger a specific section of the code.
+5. **What are Events**: programs are designed to do different things when users interact with the computer in different ways. For example, clicking on a contact link on a web page could bring up a contact form, and entering text into a search box may automatically trigger the search functionality. 
+6. **What does an event do**: Programmers choose which event s they respond to. When a specific event happens, that event can be used to trigger a specific section of the code.
 7. Computers create models of the world using data.
 8. Programmers can write code to say when this event occurs, run that code.
 9. Web browsers use HTML markup to create a model of the web page.
