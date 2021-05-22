@@ -12,10 +12,10 @@ find the place where I can find myself, Unfortunately I couldn't find any chance
  - This site includes all the daily reading notes assignments of what is learned at codes 102 and 201.
 
 
+   
 
 
-
-## Table of Contents
+ ## Table of Contents     
 
 | Page      |   Content  |
 | ----------- | ------------|
@@ -28,9 +28,10 @@ find the place where I can find myself, Unfortunately I couldn't find any chance
 | read7  |  [What Learned at loops in JS Lecture](read7.md)       |
 | read8  |  [What Learned at Functions Lecture](read8.md)       |
 
-# Code 201 reading-notes
+# Code 201 reading-notes      
+ 
 
- ## Table of Contents
+   ## Table of Contents 
 
 | Page      |   Content  |
 | ----------- | ------------|
