@@ -15,7 +15,7 @@ find the place where I can find myself, Unfortunately I couldn't find any chance
    
 
 
- ## Table of Contents     
+## Table of Contents     
 
 | Page      |   Content  |
 | ----------- | ------------|
@@ -31,7 +31,7 @@ find the place where I can find myself, Unfortunately I couldn't find any chance
 # Code 201 reading-notes      
  
 
-   ## Table of Contents 
+## Table of Contents 
 
 | Page      |   Content  |
 | ----------- | ------------|
