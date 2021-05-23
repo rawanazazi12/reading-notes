@@ -113,15 +113,15 @@
 2. Scripts contain very precise instructions. For example, you might specify that a value must be remembered 
 before creating a calculation using that value.
 
-3. Variables are used to temporarily store pieces of information used in the script.
+3. *Variables* are used to temporarily store pieces of information used in the script.
 
-4. Arrays are special types of variables that store more than one piece of related information.
+4. *Arrays* are special types of variables that store more than one piece of related information.
 
-5. JavaScript distinguishes between numbers (0-9), strings (text), and Boolean values (true or false).
+5. *JavaScript* distinguishes between numbers (0-9), strings (text), and Boolean values (true or false).
 
-6. Expressions evaluate into a single value.
+6. *Expressions* evaluate into a single value.
 
-7. Expressions rely on operators to calculate a value.
+7. *Expressions* rely on operators to calculate a value.
 
 8. **Comparison operators:** Comparison operators are used in logical statements to determine equality or difference    between variables or values.
 
