@@ -98,12 +98,12 @@
 
 
 
-17. CSS treats each HTML element as if it appears inside its own box and uses rules to indicate how that 
+17. **CSS** treats each HTML element as if it appears inside its own box and uses rules to indicate how that 
     element should look.
 
 18. Different types of selectors allow you to target your rules at different elements.
 
-19. CSS rules usually appear in a separate document, although they may appear within an HTML page.
+19. **CSS** rules usually appear in a separate document, although they may appear within an HTML page.
 
 
 ### What I've learned from the Duckett JS book:
