@@ -3,15 +3,15 @@
 ### What I've learned from the Duckett HTML book:
 
 1. What is the purpose of using *tags* in HTML: The tags provide extra meaning 
-and allow browsers to show users the appropriate structure for the page.
+   and allow browsers to show users the appropriate structure for the page.
 
    - *Structural Markup:* the elements that you can use to describe both headings and paragraphs.
 
    - *Semantic Markup:* which provides extra information; such as where emphasis is placed in a sentence, that something 
-you have written is a quotation.
+    you have written is a quotation.
  
 2. **Headings**: HTML has six "levels" of 
-headings: < h1 > to,< h6 > , for example:  
+   headings: < h1 > to,< h6 > , for example:  
 
    - < h1 > is used for main headings.
    - < h2 > is used for subheadings.     
@@ -108,7 +108,7 @@ headings: < h1 > to,< h6 > , for example:
 
 ### What I've learned from the Duckett JS book:
 
-1. A script is made up of a series of statements. Each statement is like a step in a recipe.
+1. A *script* is made up of a series of statements. Each statement is like a step in a recipe.
 
 2. Scripts contain very precise instructions. For example, you might specify that a value must be remembered 
 before creating a calculation using that value.
@@ -133,7 +133,7 @@ before creating a calculation using that value.
      |!== |not equal value or not equal type|
      |> |greater than	|
      |< |less than		|
-     |>= |greater than or equal to	|
+     |>= |greater than or equal to|
      |<= |less than or equal to	|
 
 
