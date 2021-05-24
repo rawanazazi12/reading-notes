@@ -32,7 +32,7 @@ headings: < h1 > to,< h6 > , for example:
    - The < sub > element is used to contain characters that should be subscript. It is commonly 
     used with foot notes or chemical formulas such as H2O.
 
-6. **White Space** :      
+6. **White Space** :
   In order to make code easier to read, web page authors often add extra spaces or start some 
   elements on new lines.When the browser comes across two or more spaces next to each other, it only displays one space.
 
@@ -52,8 +52,7 @@ headings: < h1 > to,< h6 > , for example:
    - < blockquote > : The < blockquote > element is used for longer quotes that take up an entire paragraph. 
    - < q > : The < q > element is used for shorter quotes that sit within a paragraph. 
 
-10. **Citations & Definitions** :     
-
+10. **Citations & Definitions** :
     - < cite > : When you are referencing a piece of work such as a book, film or research paper, the  
     < cite > element can be used to indicate where the citation is from.
 
@@ -98,12 +97,12 @@ headings: < h1 > to,< h6 > , for example:
 
 
 
-17. CSS treats each HTML element as if it appears inside its own box and uses rules to indicate how that 
+17. **CSS** treats each HTML element as if it appears inside its own box and uses rules to indicate how that 
     element should look.
 
 18. Different types of selectors allow you to target your rules at different elements.
 
-19. CSS rules usually appear in a separate document, although they may appear within an HTML page.
+19. **CSS** rules usually appear in a separate document, although they may appear within an HTML page.
 
 
 ### What I've learned from the Duckett JS book:
