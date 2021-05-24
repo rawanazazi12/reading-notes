@@ -32,7 +32,7 @@
    - The < sub > element is used to contain characters that should be subscript. It is commonly 
     used with foot notes or chemical formulas such as H2O.
 
-6. **White Space** :      
+6. **White Space** :
   In order to make code easier to read, web page authors often add extra spaces or start some 
   elements on new lines.When the browser comes across two or more spaces next to each other, it only displays one space.
 
@@ -52,8 +52,7 @@
    - < blockquote > : The < blockquote > element is used for longer quotes that take up an entire paragraph. 
    - < q > : The < q > element is used for shorter quotes that sit within a paragraph. 
 
-10. **Citations & Definitions** :     
-
+10. **Citations & Definitions** :
     - < cite > : When you are referencing a piece of work such as a book, film or research paper, the  
     < cite > element can be used to indicate where the citation is from.
 
