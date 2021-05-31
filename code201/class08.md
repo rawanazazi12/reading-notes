@@ -2,31 +2,23 @@
 
 ## CSS Layout
 
-1. *Writing Links* :Links are created using the < a > element. Users can click on anything between the opening < a > tag and the closing < /a > tag. You specify which page you want to link to using the href attribute.  
- < a  href="URL">IMDB< /a >
+1. `< div >` elements are often used as containing elements to group together sections of a page.
 
-2. *Relative URLs* : Relative URLs can be used when linking to pages within our own website. They provide a shorthand way of telling the browser where to find our files.
+2. *Browsers* display pages in normal flow unless you specify relative, absolute, or fixed positioning.
 
-3. *Directory Structure* :On larger websites it's a good idea to organize our code by placing the pages for each different section of the site into a new folder. Folders on a website are sometimes referred to as directories.
+3. The float property moves content to the left or right of the page and can be used to create multi-column layouts. (Floated items require a defined width.)
 
-   - Structure
-   - Homepages
-   - Relationships
-
-4. When a website is live (that is, uploaded to a web server) we may see a couple of other techniques used that do not 
-work when the files are on our local computer.
+4. Pages can be fixed width or liquid (stretchy) layouts.
 
 5. A forward slash will return the homepage for the entire site, and a forward slash followed by a file name will return that file providing it is in the root directory.
 
-6. *Email Links*
-To create a link that starts up the user's email program and addresses an email to a specified email address, you use the < a >element. However, this time the value of the href attribute starts with mailto: and is followed by the email address you want the email to be sent to.
+6. Designers keep pages within 960-1000 pixels wide, and indicate what the site is about within the top 600 pixels (to demonstrate its relevance without scrolling).
 
-7. Opening Links in a New Window : 
-**Target**  If you want a link to open in a new window, you can use the target attribute on the opening < a > tag. The value of this attribute should be **_blank** .
+7. **Grids** help create professional and flexible designs.
 
-8. If you are linking to a page within your own site, it is best to use relative links rather than qualified URLs.
+8. *CSS* Frameworks provide rules for common tasks.
 
-9. You can create links to open email programs with an email address in the "to" field.
+9. You can include multiple CSS files in one page.
 
 10. You can use the id attribute to target elements within a page that can be linked to.
 
