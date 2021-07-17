@@ -50,11 +50,7 @@ find the place where I can find myself, Unfortunately I couldn't find any chance
 | class 13  |  [What Learned at the 13th class of 201](code201/class13.md)       |
 | class 14  |  [What Learned at the 14th/a class of 201](code201/class14.md)       |
 | class 15  |  [What Learned at the 14th/b class of 201](code201/class15.md)       |
-| class 16  |  [What Learned at the 15th class of 201](code201/class16.md)       |
-| class 17  |  [What Learned at the 16th class of 201](code201/class17.md)       |
-| class 18 |  [What Learned at the 17th class of 201](code201/class18.md)       |
-| class 19 |  [What Learned at the 18th class of 201](code201/class19.md)       |
-| class 20 |  [What Learned at the 19th class of 201](code201/class20.md)       |
+
 
 
 
