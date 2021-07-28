@@ -1,4 +1,4 @@
-# What I've Learned at the 2nd lecture of 301 code...
+# What I've Learned at the 4th lecture of 301 code...
 
 
 ## React Docs - Forms
@@ -13,7 +13,7 @@
   We should update the state with their responses as soon as they enter them, cause we need these values to be used at the moment the user submitted the form.
 
 4. **How do we target what the user is entering if we have an event handler on an input field?**        
- Using event.event.value
+ Using event.target.value
 
 
 1. **Why would we use a ternary operator?**             
