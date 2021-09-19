@@ -76,26 +76,10 @@ find the place where I can find myself, Unfortunately I couldn't find any chance
 | class 12  |  [What Learned at the 12th class of 301](code301/class12.md)       |
 | class 13  |  [What Learned at the 13th class of 301](code301/class13.md)       |
 | class 14  |  [What Learned at the 14th class of 301](code301/class14.md)       |
-| class 15  |  [What Learned at the 15th class of 301](code301/class15.md)       |
-| class 16  |  [What Learned at the 16th class of 301](code301/class16.md)       |
-| class 17  |  [What Learned at the 17th class of 301](code301/class17.md)       |
-| class 18 |  [What Learned at the 18th class of 301](code301/class18.md)       |
-| class 19 |  [What Learned at the 19th class of 301](code301/class19.md)       |
-| class 20 |  [What Learned at the 20th class of 301](code301/class20.md)       |
-| class 21 |  [What Learned at the 21st class of 301](code301/class21.md)       |
-| class 22 |  [What Learned at the 22nd class of 301](code301/class22.md)       |
-| class 23 |  [What Learned at the 23rd class of 301](code301/class23.md)       |
-| class 24 |  [What Learned at the 24th class of 301](code301/class24.md)       |
-| class 25 |  [What Learned at the 25th class of 301](code301/class25.md)       |
-| class 26 |  [What Learned at the 26th class of 301](code301/class26.md)       |
-| class 27 |  [What Learned at the 27th class of 301](code301/class27.md)       |
-| class 28 |  [What Learned at the 28th class of 301](code301/class28.md)       |
-| class 29 |  [What Learned at the 29th class of 301](code301/class29.md)       |
-| class 30 |  [What Learned at the 30th class of 301](code301/class30.md)       |
 
 
+## Code 401 - Advanced Software Development
 
-Code 401 - Advanced Software Development
 
 ### Table of Contents 
 
